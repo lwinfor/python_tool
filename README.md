@@ -25,7 +25,6 @@ Thank `You` . Please `Call` Me `Coder`
 >这是我引用文字
 
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
 
 ```bash
 echo "hello,world!"
